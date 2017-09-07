@@ -1,2 +1,2 @@
 # countdownclock
-A simply python countdown clock for a raspberry pi
+A simple python countdown clock for a raspberry pi
